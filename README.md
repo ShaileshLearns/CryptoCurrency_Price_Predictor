@@ -1,7 +1,7 @@
 # Crypto Currency Price Predictor
 ## Overview
 
-Streamlit app to predict Cryptocurrency(Bitcoin in this case) price prediction using LSTM model.
+Streamlit app to predict Cryptocurrency(Bitcoin in this case) price using LSTM model.
 
 The model is trained on TimeSeries data of BinanceCoin, Bitcoin and Ethereum.
 
